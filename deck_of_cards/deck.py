@@ -38,7 +38,7 @@ class Deck:
     def remove_card(self, card):
         """Removes a card from the deck or raises exception if it is not there.
 
-        card: Card
+        card: MyCard
         """
         self.cards.remove(card)
 
