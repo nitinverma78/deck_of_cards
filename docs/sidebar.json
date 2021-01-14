@@ -2,6 +2,7 @@
   "deck_of_cards": {
     "Overview": "/",
     "Card": "/card",
-    "Deck": "/deck"
+    "Deck": "/deck",
+    "MyCard": "/mycard"
   }
 }

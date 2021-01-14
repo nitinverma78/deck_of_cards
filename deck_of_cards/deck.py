@@ -3,7 +3,7 @@
 __all__ = ['Deck']
 
 # Cell
-from .card import Card
+from .mycard import MyCard
 
 # Cell
 class Deck:
@@ -18,7 +18,7 @@ class Deck:
         self.cards = []
         for suit in range(4):
             for rank in range(1, 14):
-                card = Card(suit, rank)
+                card = MyCard(suit, rank)
                 self.cards.append(card)
 
     def __str__(self):

@@ -3,10 +3,12 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Card": "00_card.ipynb",
-         "Deck": "01_deck.ipynb"}
+         "Deck": "01_deck.ipynb",
+         "MyCard": "02_mycard.ipynb"}
 
 modules = ["card.py",
-           "deck.py"]
+           "deck.py",
+           "mycard.py"]
 
 doc_url = "https://nitinverma78.github.io/deck_of_cards/"
 
