@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: Card
       url: /card
+    - output: web,pdf
+      title: Deck
+      url: /deck
     output: web
     title: deck_of_cards
   output: web

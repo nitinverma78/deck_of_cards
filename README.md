@@ -1,5 +1,5 @@
 # Deck of Cards
-> Summary description here.
+> A minimal example of using nbdev to create a python library.
 
 
 https://nitinverma78.github.io/deck_of_cards/

@@ -1,6 +1,7 @@
 {
   "deck_of_cards": {
     "Overview": "/",
-    "Card": "/card"
+    "Card": "/card",
+    "Deck": "/deck"
   }
 }
