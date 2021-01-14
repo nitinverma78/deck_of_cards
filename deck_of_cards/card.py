@@ -8,10 +8,9 @@ __all__ = ['Card']
 
 # Cell
 #nbdev_comment from __future__ import print_function, division
-
 import random
 
-
+# Cell
 class Card:
     """Represents a standard playing card.
 
